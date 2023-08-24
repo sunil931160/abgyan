@@ -23,7 +23,7 @@
 .abgyan_image{
     height: 42px;
     width: 102px;
-    background-image: url('abgyan_logo2.png');
+    background-image: url('img/abgyan_logo2.png');
     background-size: 100% 100%;
 }
 .croma_logo{
@@ -37,7 +37,7 @@
 .croma_image{
     height: 42px;
     width: 102px;
-    background-image: url('cromalogo.svg');
+    background-image: url('img/cromalogo.svg');
     background-size: 100% 100%;
     /* border: 1px solid white; */
 }
@@ -141,8 +141,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* height: 25px;
-    width: 100px; */
     border-radius: 5px;
 }
 .study{
@@ -158,8 +156,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* height: 25px;
-    width: 100px; */
     border-radius: 5px;
 }
 .webinar{
@@ -175,8 +171,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* height: 25px;
-    width: 100px; */
     border-radius: 5px;
 }
 .gallery{
@@ -192,8 +186,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* height: 25px;
-    width: 100px; */
     border-radius: 5px;
 }
 .blogs{
@@ -209,8 +201,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* height: 25px;
-    width: 120px; */
     border-radius: 5px;
 }
 .contact{
@@ -232,7 +222,7 @@
     height: 350px;
     width: 100%;
     background-color: aqua;
-    background-image: url("nav_3_image.webp");
+    background-image: url("img/nav_3_image.webp");
     background-size: 100% 100%;
 }
 .nav_3_botton_1{
@@ -466,7 +456,7 @@
 .nav_6_img_1{
     height: 50%;
     width: 100%;
-    background-image: url('nav_6_img_1.webp');
+    background-image: url('img/nav_6_img_1.webp');
     background-size: 100% 100%;
 }
 .nav_6_heading_1{
@@ -518,7 +508,7 @@
 .nav_6_img_2{
     height: 50%;
     width: 100%;
-    background-image: url('nav_6_img_2.webp');
+    background-image: url('img/nav_6_img_2.webp');
     background-size: 100% 100%;
 }
 .nav_6_heading_2{
@@ -565,7 +555,7 @@
 .nav_6_img_3{
     height: 50%;
     width: 100%;
-    background-image: url('nav_6_img_3.webp');
+    background-image: url('img/nav_6_img_3.webp');
     background-size: 100% 100%;
 }
 .nav_6_heading_3{
@@ -686,7 +676,7 @@
     width: 60px;
     margin-left: 39%;
     margin-top: 20px;
-    background-image: url('nav_7_ielts.webp');
+    background-image: url('img/nav_7_ielts.webp');
     background-size: 100% 100%;
 }
 .ielts_heading{
@@ -741,7 +731,7 @@
     width: 60px;
     margin-left: 39%;
     margin-top: 20px;
-    background-image: url('nav_7_gmat.webp');
+    background-image: url('img/nav_7_gmat.webp');
     background-size: 100% 100%;
 }
 .gmat_heading{
@@ -796,7 +786,7 @@
     width: 60px;
     margin-left: 39%;
     margin-top: 20px;
-    background-image: url('nav_7_toefel.webp');
+    background-image: url('immg/nav_7_toefel.webp');
     background-size: 100% 100%;
 }
 .toefel_heading{
@@ -852,7 +842,7 @@
     width: 60px;
     margin-left: 39%;
     margin-top: 20px;
-    background-image: url('nav_7_pte.webp');
+    background-image: url('img/nav_7_pte.webp');
     background-size: 100% 100%;
 }
 .pte_heading{
@@ -930,7 +920,7 @@
 .nav_9_design_image{
     height:400px;
     width: 80%;
-    background-image: url('7-Process-Design.webp');
+    background-image: url("img/7-Process-Design.webp");
     background-size: 100% 100%;
 }
                                     /* navbar_10 */
@@ -1010,7 +1000,7 @@
 .nav_12_img_1{
     height: 40px;
     width: 50px;
-    background-image: url('nav_12_img1.webp');
+    background-image: url('img/nav_12_img1.webp');
     background-size: 100% 100%;
     margin-top: 15px;
     margin-left: 20px;
@@ -1056,7 +1046,7 @@
 .nav_12_img_2{
     height: 40px;
     width: 50px;
-    background-image: url('nav_12_img2.webp');
+    background-image: url('img/nav_12_img2.webp');
     background-size: 100% 100%;
     margin-top: 15px;
     margin-left: 20px;
@@ -1102,7 +1092,7 @@
 .nav_12_img_3{
     height: 40px;
     width: 50px;
-    background-image: url('nav_12_img3.webp');
+    background-image: url('img/nav_12_img3.webp');
     background-size: 100% 100%;
     margin-top: 15px;
     margin-left: 20px;
@@ -1148,7 +1138,7 @@
 .nav_12_img_4{
     height: 40px;
     width: 50px;
-    background-image: url('nav_12_img4.webp');
+    background-image: url('img/nav_12_img4.webp');
     background-size: 100% 100%;
     margin-top: 15px;
     margin-left: 20px;
@@ -1203,7 +1193,7 @@
 .nav_13_img_5{
     height: 40px;
     width: 50px;
-    background-image: url('nav_13_img5.webp');
+    background-image: url('img/nav_13_img5.webp');
     background-size: 100% 100%;
     margin-top: 15px;
     margin-left: 20px;
@@ -1249,7 +1239,7 @@
 .nav_13_img_6{
     height: 40px;
     width: 50px;
-    background-image: url('nav_13_img6.webp');
+    background-image: url('img/nav_13_img6.webp');
     background-size: 100% 100%;
     margin-top: 15px;
     margin-left: 20px;
@@ -1295,7 +1285,7 @@
 .nav_13_img_7{
     height: 40px;
     width: 50px;
-    background-image: url('nav_13_img7.webp');
+    background-image: url('img/nav_13_img7.webp');
     background-size: 100% 100%;
     margin-top: 15px;
     margin-left: 20px;
@@ -1341,7 +1331,7 @@
 .nav_13_img_8{
     height: 40px;
     width: 50px;
-    background-image: url('nav_13_img8.webp');
+    background-image: url('img/nav_13_img8.webp');
     background-size: 100% 100%;
     margin-top: 15px;
     margin-left: 20px;
@@ -1443,14 +1433,14 @@
     width: 350px;
     margin-left: 80px;
     background-color: #fff;
-    background-image: url("nav_16_img1.webp");
+    background-image: url("img/nav_16_img1.webp");
     background-size: 100% 100%;
 }
 .nav_16_box_2{
     height: 400px;
     width: 350px;
     background-color: #fff;
-    background-image: url("nav_16_img1.webp");
+    background-image: url("img/nav_16_img1.webp");
     background-size: 100% 100%;
 }
 .nav_16_box_3{
@@ -1458,7 +1448,7 @@
     width: 350px;
     margin-right: 80px;
     background-color: #fff;
-    background-image: url("nav_16_img1.webp");
+    background-image: url("img/nav_16_img1.webp");
     background-size: 100% 100%;
 }
                               /* navbar_17 */
@@ -1538,7 +1528,7 @@
     margin-left: 39%;
     margin-top: 25px;
     background-color: #000;
-    background-image: url("testi1.webp");
+    background-image: url("img/testi1.webp");
     background-size: 100% 100%;
     border-radius: 50px;
 }
@@ -1699,7 +1689,7 @@
     width: 170px;
     margin-left: 100px;
     margin-top: 25px;
-    background-image: url('abgyan_logo2.png');
+    background-image: url('img/abgyan_logo2.png');
     background-size: 100% 100%;
 }
                                 /* navbar_22 */
@@ -1968,7 +1958,7 @@
     height: 40px;
     width: 60px;
     border: 3px solid #fff;
-    background-image: url("nav_23_img.svg");
+    background-image: url("img/nav_23_img.svg");
     background-size: 100% 100%;
     margin-left: 48px;
 }
@@ -2003,7 +1993,7 @@
     width: 60px;
     margin-left: 20px;
     border: 3px solid white;
-    background-image: url("nav_23_img.svg");
+    background-image: url("img/nav_23_img.svg");
     background-size: 100% 100%;
 }
 .nav_23_heading2{
