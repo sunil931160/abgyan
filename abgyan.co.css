@@ -5,6 +5,7 @@
 .navbar_1{
     height: 80px;
     width: 100%;
+    padding: 0%;
     position: fixed;
     z-index: auto;
     display: flex;
@@ -92,6 +93,7 @@
 }
 /* navbar_2 */
 .navbar_2{
+    padding: 0%;
     display: flex;
     align-items: center;
     height: 30px;
@@ -221,6 +223,7 @@
 .navbar_3{
     height: 350px;
     width: 100%;
+    padding: 0%;
     background-color: aqua;
     background-image: url("img/nav_3_image.webp");
     background-size: 100% 100%;
@@ -282,6 +285,7 @@
 
                                            /* navbar_4 */
 .navbar_4{
+    padding: 0%;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -403,6 +407,7 @@
 }
                              /* .navbar_5 */
 .navbar_5{
+    padding: 0%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -439,6 +444,7 @@
 }
                                /* Navbar_6 */
 .navbar_6{
+    padding: 0%;
     display: flex;
     justify-content: space-evenly;
     align-items: centers;
@@ -626,6 +632,7 @@
 }
                                  /* navbar_7 */
 .navbar_7{
+    padding: 0%;
     height: 390px;
     width: 100%;
     background-color: #f4f4f4;
@@ -885,6 +892,7 @@
 }
                           /* .navbar_8*/
 .navbar_8{
+    padding: 0%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1378,22 +1386,30 @@
     color: #555;
 }
                                       /* navbar-14 */
-.nav_14_button{
-    height: 90px;
+.navbar_14{
+    height: 100px;
     width: 100%;
-    margin-top: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.nav_14_button_1{
-    border: none;
+.nav_14_button{
+    height: 45px;
+    width: 300;
     border-radius: 5px;
+    background-color: #0f3ebf;
+}
+.nav_14_button_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
     height: 35px;
     width: 200px;
-    background-color: #0f3ebf;
     color: #fff;
+    border: none;
     font-weight: 700;
+    text-decoration: none;
 }
                                      /* navbar_15 */
 .navbar_15{
@@ -1430,6 +1446,7 @@
 }
                               /* navbar-16 */
 .navbar_16{
+    padding: 0%;
     height: 410px;
     width: 100%;
     background-color: #e0e0e0;
@@ -1464,6 +1481,7 @@
 .navbar_17{
     height: 100px;
     width: 100%;
+    padding: 0%;
     background-color: #e0e0e0;
     display: flex;
     justify-content: center;
@@ -1486,6 +1504,7 @@
     margin-top: 20px;
     height: 80px;
     width: 100%;
+    padding: 0%;
     background-color: #fff;
     display: flex;
     justify-content: center;
@@ -1518,6 +1537,7 @@
 .navbar_19{
     height: 450px;
     width: 100%;
+    padding: 0%;
     background-color: #fff;
     display: flex;
     justify-content: space-evenly;
@@ -1593,6 +1613,7 @@
 .navbar_20{
     height: 430px;
     width: 100%;
+    padding: 0%;
     display: flex;
     background-color:  #243be4;
 }
@@ -1688,10 +1709,11 @@
                                /* navbar_21 */
 .navbar_21{
     margin: 0%;
+    padding: 0%;
     height: 100px;
     width: 100%;
     background-color: rgb(12, 14, 11);
-    border: 1px solid rgb(12, 14, 11);
+    /* border: 1px solid rgb(12, 14, 11); */
 }
 .abgyan_logo_2{
     height: 70px;
@@ -1703,6 +1725,8 @@
 }
                                 /* navbar_22 */
 .navbar_22{
+    margin: 0%;
+    padding: 0%;
     height: 300px;
     width: 100%;
     display: flex;
@@ -1945,7 +1969,7 @@
     height: 200px;
     width: 100%;
     background-color: #343a40;
-    border: 1px solid #343a40;
+    /* border: 1px solid #343a40; */
 }
 .nav_23_blogs{
     margin-top: 20px;
@@ -2039,7 +2063,7 @@
     height: 500px;
     width: 100%;
     background-color: #071230;
-    border: 1px solid #071230;
+    /* border: 1px solid #071230; */
 }
 .nav_24_col{
     margin-left: 90px;
