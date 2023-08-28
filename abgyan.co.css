@@ -480,20 +480,23 @@
     margin-top: 18px;
 }
 /* nav_6_botton */
-.read_botton_1{
+.read_botton_3{
     height: 40px;
     width: 100%;
     color: red;
     background-color: #fff;
     font-size: 16px;
     font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     border: none;
     text-decoration: none;
     outline: none;
     font-family: Poppins,sans-serif;
 }
-/* nav_6_button hover */
+/* nav_6_button 1 2 3 hover */
 .btn_6:hover{
     color: #fff;
     background-color: #d73438;
@@ -532,13 +535,16 @@
     margin-top: 18px;
 }
 /* nav_6_botton */
-.read_botton_2{
+.read_botton_3{
     height: 40px;
     width: 100%;
     color: red;
     background-color: #fff;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     border: none;
     text-decoration: none;
@@ -585,7 +591,10 @@
     color: red;
     background-color: #fff;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     border: none;
     text-decoration: none;
