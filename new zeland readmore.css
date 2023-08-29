@@ -279,6 +279,7 @@
 }
                                            /* navbar_4 */
 .navbar_4{
+    padding: 0%;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -308,6 +309,7 @@
 }
 .download_icon{
     font-size: 1.8rem;
+    padding-top: 15px;
 }
 .nav_4_download_heading{
     display: flex;
@@ -337,14 +339,15 @@
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 .book{
+    height: 50%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 50%;
-    width: 100%;
 }
 .book_icon{
     font-size: 1.8rem;
+    padding-top: 15px;
 }
 .nav_4_univercity_heading{
     display: flex;
@@ -383,6 +386,7 @@
 }
 .calender_icon{
     font-size: 1.8rem;
+    padding-top: 15px;
 }
 .nav_4_request_heading{
     display: flex;
@@ -397,11 +401,4 @@
     font-size: 16px;
     color: #000;
     font-weight: 600;
-}
-.nav_5_fixed_raw1{
-    height: 250px;
-    width: 300px;
-    margin-left: 20px;
-    background-color: #0f3ebf;
-    border: 1px solid black;
 }
