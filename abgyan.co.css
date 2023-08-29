@@ -297,6 +297,7 @@
 .btn_3:hover{
     background-color: #d42512;
     color: white;
+    transition: 0.40s;
 }
 
                                            /* navbar_4 */
@@ -526,6 +527,7 @@
     color: #fff;
     background-color: #d73438;
     font-weight: 700;
+    transition: 0.50s;
 }
 /* nav-6-box-2 */
 .nav-6-box-2{
@@ -1609,11 +1611,12 @@
     height: 360px;
     width: 430px;
     border-radius: 7px;
+    z-index: 0;
     box-shadow: 2px 3px 10px rgba(36,59,228,.502);
 }
 .abgyan_video{
     border-radius: 7px;
-    z-index: auto !important;
+    border: none;
 }
                                    /* navbar_20 */
 .navbar_20{
@@ -1637,7 +1640,7 @@
     height: 290px;
     width: 390px;
     border-radius: 10px;
-    /* z-index: 10; */
+    z-index: 4;
 }
 .main_nav{
     height: 340px;
