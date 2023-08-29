@@ -1,0 +1,248 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar_1{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #0f0b0b;
+}
+.icons{
+    height: 40px;
+    width: 120px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.fb_icon{
+    margin-left: 35px;
+    font-size: 1.7rem;
+}
+.insta_icon{
+    margin-left: 10px;
+    font-size: 1.7rem;
+}
+.twitter_icon{
+    margin-left: 10px;
+    font-size: 1.7rem;
+}
+.contact{
+    margin-left: 900px;
+}
+.contact_nbr{
+    font-size: 1.5rem;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+.navbar_2{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #7e5454;
+}
+.html_logo{
+    height: 50px;
+    width: 55px;
+    margin-left: 30px;
+    background-image: url('html5-logo-html-icons-download-14.png');
+    background-image: no-repeat;
+    background-size: 100% 100%;
+}
+.nav_2_elemint{
+    height: 55px;
+    width: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 160px;
+}
+.nav_2_tags{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    width: 90px;
+    margin-left: 20px;
+}
+.tags{
+    color: blanchedalmond;
+    font-weight: 900;
+    font-size: 1.6rem;
+    font-weight: 400;
+    text-decoration: none;
+}
+.nav_2_attribute{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    width: 90px;
+    margin-left: 10px;
+}
+.attribute{
+    color: blanchedalmond;
+    font-weight: 900;
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+.nav_2_tutorial{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    width: 90px;
+    margin-left: 10px;
+}
+.tutorial{
+    color: blanchedalmond;
+    font-weight: 900;
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+.nav_2_hosting{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    width: 120px;
+    margin-left: 10px;
+}
+.hosting{
+    color: blanchedalmond;
+    font-weight: 900;
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+.nav_2_blog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    width: 90px;
+    margin-left: 10px;
+}
+.blog{
+    color: blanchedalmond;
+    font-weight: 900;
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+.nav_2_about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    width: 90px;
+    margin-left: 10px;
+}
+.about{
+    color: blanchedalmond;
+    font-weight: 900;
+    font-size: 1.6rem;
+    text-decoration: none;
+}
+.navbar_3{
+    height: 140px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+.html{
+    height: 100px;
+    width: 1000px;
+    margin-top: 30px;
+    word-spacing: 13px;
+}
+.w3_scl{
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: red;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+.navbar_4{
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.html_2{
+    height: 60px;
+    width: 180px;
+    font-size: 1.7rem;
+}
+.navbar_5{
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_1{
+    height: 300px;
+    width: 400px;
+    margin-left: 50px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+.img{
+    height: 80px;
+    width: 400px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.circel_image_1{
+    height: 70px;
+    width: 70px;
+    margin-left: 5px;
+    /* border: 2px solid black; */
+    border-radius: 50px;
+    background-image: url("img/todd.jpg");
+    background-size: 100% 100%;
+}
+.tw_heading_1{  
+    margin-left: 20px;
+    font-size: 1rem;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.twitter_icon_1{
+    margin-left: 170px;
+    font-size: 1.5rem;
+}
+.p_heading{
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 130px;
+    width: 370px;
+}
+.paragraph{
+    line-height: 22px;
+}
+.circel_image_2{
+    height: 70px;
+    width: 70px;
+    margin-left: 5px;
+    border-radius: 50px;
+    background-image: url("img/brian.jpg");
+    background-size: 100% 100%;
+}
+.tw_heading_2{  
+    margin-left: 20px;
+    font-size: 1rem;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.twitter_icon_2{
+    margin-left: 120px;
+    font-size: 1.5rem;
+}
