@@ -264,6 +264,7 @@
     border: none;
     border-radius: 5px;
     text-decoration: none;
+    transition: 0.50s;
     font-family: Poppins,sans-serif;
 }
 /* nav_3_botton_2 */
@@ -289,6 +290,7 @@
     border: none;
     border-radius: 5px;
     text-decoration: none;
+    transition: 0.50s;
     font-family: Poppins,sans-serif;
 }
 /* navbar_3:hover */
@@ -972,6 +974,7 @@
     width: 700px;
 }
 .nav_10_heading_1{
+    padding-top: 20px;
     font-size: 18px;
     line-height: 33px;
     font-family: Poppins,sans-serif;
@@ -1968,13 +1971,11 @@
 }
                                /* navbar_23 */
 .navbar_23{
-    height: 200px;
+    height: 250px;
     width: 100%;
     background-color: #343a40;
-    /* border: 1px solid #343a40; */
 }
 .nav_23_blogs{
-    margin-top: 20px;
     text-align: center;
     font-size: 2rem;
     padding-top: 20px;
@@ -2066,13 +2067,11 @@
     height: 500px;
     width: 100%;
     background-color: #071230;
-    /* border: 1px solid #071230; */
 }
 .nav_24_col{
     margin-left: 90px;
 }
 .col_h3_heading{
-    margin-top: 20px;
     padding-top: 15px;
     font-size: 1rem;
     line-height: 30px;
