@@ -1080,10 +1080,6 @@
     font-family: Poppins,sans-serif;
     color: #555!important;
 }
-.btn_12:hover{
-    background-color: #0f3ebf;
-    color: #fff;
-}
 /* nav_12_box_2 */
 .nav_12_box_2{
     height: 220px;
@@ -1233,7 +1229,10 @@
 .nav_13_box_5{
     height: 220px;
     width: 300px;
+    cursor: pointer;
+    margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid #fff;
 }
 .nav_13_img_5{
     height: 40px;
@@ -1274,7 +1273,10 @@
 .nav_13_box_6{
     height: 220px;
     width: 300px;
+    cursor: pointer;
+    margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid #fff;
 }
 .nav_13_img_6{
     height: 40px;
@@ -1315,7 +1317,10 @@
 .nav_13_box_7{
     height: 220px;
     width: 300px;
+    cursor: pointer;
+    margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid #fff;
 }
 .nav_13_img_7{
     height: 40px;
@@ -1356,7 +1361,10 @@
 .nav_13_box_8{
     height: 220px;
     width: 300px;
+    cursor: pointer;
+    margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid #fff;
 }
 .nav_13_img_8{
     height: 40px;
