@@ -1,0 +1,247 @@
+@media screen and (max-width: 320px) {
+    .navbar_1{
+        height: 40px;
+        width: 100%;
+        position: fixed;
+        z-index: 1030;
+        right: 0%;
+        left: 0%;
+    }
+    .abgyan_logo{
+        height: 28px;
+        width: 90px;
+        border-right: 1px solid white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 80px;
+    }
+    .abgyan_image{
+        height: 24px;
+        width: 78px;
+    }
+    .search_bar{
+        display: none;
+    }
+    .search_icon{
+        display: none;
+    }
+    .croma_logo{
+        height: 28px;
+        width: 80px;
+        border-left: 1px solid white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .croma_image{
+        height: 24px;
+        width: 80px;
+        padding-left: -20px;
+    }
+    .countries_name{
+        display: none;
+    }
+    .univercity_name{
+        display: none;
+    }
+    .navbar_2{
+        height: 10px;
+        width: 100%;
+        position: fixed;
+        z-index: 6;
+        margin-top: 40px;
+    }
+    .main_nav-2{
+        display: none;
+    }
+    .fixed_navbar{
+        height: 50px;
+        width: 100%;
+    }
+    .navbar_3{
+        height: 90px;
+    }
+    .nav_3_botton_1{
+        display: none;
+    }
+    .get_botton{
+        display: none;
+    }
+    .nav_3_botton_2{
+        display: none;
+    }
+    .try_botton{
+        display: none;
+    }
+    .navbar_4{
+        height: 330px;
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: #f4f4f4;
+    }
+    .main_nav-4{
+        height: 300px;
+        width: 100%;
+        display: block;
+        margin-bottom: unset;
+    }
+    .box_1{
+        height: 80px;
+        width: 90%;
+        margin-left: 15px;
+        margin-top: 10px;
+        margin-bottom: unset;
+    }
+    .download{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50%;
+        width: 100%;
+    }
+    .download_icon{
+        font-size: 1.4rem;
+        padding-top: 15px;
+    }
+    .nav_4_download_heading{
+        height: 50%;
+        width: 100%;
+    }
+    .download_heading{
+        font-size: 13px;
+        color: #000;
+        font-weight: 600;
+    }
+    .box_2{
+        height: 80px;
+        width: 90%;
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: unset;
+    }
+    .box_3{
+        height: 80px;
+        width: 90%;
+        margin-left: 15px;
+        margin-top: 20px;
+        margin-bottom: unset;
+    }
+    .media_heading{
+        font-size: 14px;
+    }
+    .media_icon{
+        font-size: 1.6rem;
+    }
+    .navbar_5{
+        height: 130px;
+        width: 100%;
+        display: flex;
+    }
+    .nav_5_headings{
+        height: 115px;
+        width: 98%;
+        margin-top: -5px;
+    }
+    .destination_heading{
+        font-size: 17px;
+        height: 25px;
+        margin-top: 0%;
+    }
+    .Education_heading{
+        font-size: 13px;
+        height: 25px;
+        width: 100%;
+    }
+    .course_para{
+        height: 45px;
+        margin-left: 3px;
+        margin-right: 2px;
+        margin-top: 5px;
+        font-size: 10px;
+        word-spacing: 3px;
+        text-align: center;
+    }
+    .navbar_6{
+        height: 1000px;
+        width: 100%;
+        display: block;
+        margin-bottom: unset;
+        background-color: #fff;
+        margin-top: 0%;
+    }
+    .nav-6-box-1{
+        margin-left: 10px;
+        margin-top: 5px;
+    }
+    .nav-6-box-2{
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    .nav-6-box-3{
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    .view_country_botton{
+        height: 40px; 
+        width: 100%;
+    }
+    .country_botton{
+        height: 40px;
+        width: 150px;
+        font-size: 13px;
+    }
+    .navbar_7{
+        height: 900px;
+        width: 100%;
+        background-color: #f4f4f4;
+        margin-top: 10px;
+    }
+    .nav_7_headings{
+        height: 100px;
+        width: 100%;
+        margin-left: 0%;
+    }
+    .nav_7_heading_1{
+        padding-top: 10px;
+        font-size: 16px;
+    }
+    .nav_7_heading_2{
+        font-size: 14px;
+        width: 90%;
+        line-height: 17px;
+    }
+    .nav_7_boxes{ 
+        height: 900px;
+        width: 100%;
+        border: 1px solid black;
+
+    }
+    .nav_7_box_1{ 
+        height: 115px;
+        width:  calc(50% -10px);
+        gap: 10px;
+        margin-left: 0%;
+    }
+    .nav_7_box_2{ 
+        height: 140px;
+        width: 50%;
+        width: calc(50% -10px);
+        gap: 10px;
+        margin-left: 0%;
+    }
+    .nav_7_box_3{ 
+        height: 140px;
+        width:  calc(50% -10px);
+        gap: 10px;
+        margin-left: 0%;
+    }
+    .nav_7_box_4{ 
+        height: 140px;
+        width:  calc(50% -10px);
+        gap: 10px;
+        margin-left: 0%;
+    }
+}
