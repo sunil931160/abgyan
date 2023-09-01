@@ -707,6 +707,7 @@
     justify-content: center;
     text-align: center;
     cursor: pointer;
+    position: grid;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 .nav_7_img_1{
@@ -719,7 +720,7 @@
 }
 .image_1{
     height: 50px;
-    width: 60px;
+    width: 50px;
     margin-left: 39%;
     margin-top: 20px;
     background-image: url('img/nav_7_ielts.webp');
@@ -868,7 +869,6 @@
 .nav_7_box_4{
     height: 200px;
     width: 240px;
-    margin-right: 80px;
     display: inline-block;
     justify-content: center;
     text-align: center;

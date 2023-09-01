@@ -1,4 +1,7 @@
 @media screen and (max-width: 320px) {
+    *{
+        font-family: Poppins,sans-serif;
+    }
     .navbar_1{
         height: 40px;
         width: 100%;
@@ -158,11 +161,11 @@
     .course_para{
         height: 45px;
         margin-left: 3px;
-        margin-right: 2px;
+        margin-right: 4px;
         margin-top: 5px;
         font-size: 10px;
         word-spacing: 3px;
-        text-align: center;
+        text-align: justify;
     }
     .navbar_6{
         height: 1000px;
@@ -194,7 +197,7 @@
         font-size: 13px;
     }
     .navbar_7{
-        height: 900px;
+        height: 1000px;
         width: 100%;
         background-color: #f4f4f4;
         margin-top: 10px;
@@ -216,32 +219,36 @@
     .nav_7_boxes{ 
         height: 900px;
         width: 100%;
-        border: 1px solid black;
 
     }
     .nav_7_box_1{ 
-        height: 115px;
-        width:  calc(50% -10px);
-        gap: 10px;
+        height: 200px;
+        width:  200px;
         margin-left: 0%;
+        margin-top: 10px;
     }
     .nav_7_box_2{ 
-        height: 140px;
-        width: 50%;
-        width: calc(50% -10px);
-        gap: 10px;
+        height: 200px;
+        width:  200px;
         margin-left: 0%;
+        margin-top: 10px;
     }
     .nav_7_box_3{ 
-        height: 140px;
-        width:  calc(50% -10px);
-        gap: 10px;
+        height: 200px;
+        width:  200px;
         margin-left: 0%;
+        margin-top: 10px;
     }
     .nav_7_box_4{ 
-        height: 140px;
-        width:  calc(50% -10px);
-        gap: 10px;
+        height: 200px;
+        width:  200px;
         margin-left: 0%;
+        margin-top: 10px;
+    }
+    .nav_7_media_heading{
+        font-size: 1.4rem;
+    }
+    .nav_7_media_paragraph{
+        font-size: 12px;
     }
 }
