@@ -207,14 +207,19 @@
         width: 100%;
         margin-left: 0%;
     }
-    .nav_7_heading_1{
+    .visa_coaching_heading{
         padding-top: 10px;
         font-size: 16px;
     }
-    .nav_7_heading_2{
+    .benifit_visa{
         font-size: 14px;
         width: 90%;
         line-height: 17px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 15px;
+        margin-right: 10px;
     }
     .nav_7_boxes{ 
         height: 900px;
@@ -250,5 +255,93 @@
     }
     .nav_7_media_paragraph{
         font-size: 12px;
+    }
+    .nav_8_headings{
+        height: 120px;
+        width: 100%;
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .Process_heading{
+        padding-top: 10px;
+        font-size: 16px;
+    }
+    .trusted_heading{
+        font-size: 14px;
+        width: 90%;
+        line-height: 17px;
+        margin-top: 0%;
+        margin-left: 15px;
+        margin-right: 10px;
+    }
+    .expert_paragraph{
+        height: 48px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 0%;
+        padding-top: 5px;
+        font-size: 10px;
+        word-spacing: 3px;
+        text-align: justify;
+    }
+    .navbar_9{
+        height: 180px;
+        width: 100%;
+        margin-left: 0%;
+        margin-right: 0%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .nav_9_design_image{
+        width: 90%;
+        height: 170px;
+        margin-top: 18px;
+        margin-left: 0%;
+        margin-right: 0%;
+        background-image: url("img/7-process-mb.jpg");
+        background-size: 100% 100%;
+        background-repeat: none;
+    }
+    .navbar_10{
+        height: 80px;
+        width: 100%;
+        margin-top: 18px;
+    }
+    .nav_10_headings{
+        height: 75px;
+        width: 90%;
+    }
+    .static_heading{
+        height: 28px;
+        padding-top: 0%;
+        font-size: 16px;
+    }
+    .nav_10_paragraph{
+        height: 30px;
+        margin-top: 0%;
+        font-size: 11px;
+        text-align: center;
+    }
+    .navbar_11{
+        height: 100px;
+    }
+    .nav_11_headings{
+        height: 80px;
+    }
+    .services_heading_1{
+        height: 20px;
+        margin-top: 0%;
+        font-size: 16px;
+    }
+    .services_paragraph{
+        height: 49px;
+        padding-top: 5px;
+        margin-top: 0%;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: 10px;
+        line-height: 12px;
+        text-align: center;
     }
 }

@@ -673,7 +673,7 @@
     width: 550px;
     margin-left: 450px;
 }
-.nav_7_heading_1{
+.visa_coaching_heading{
     font-size: 22px;
     line-height: 33px;
     padding-top: 20px;
@@ -681,7 +681,7 @@
     text-align: center;
     color: #243be4;
 }
-.nav_7_heading_2{
+.benifit_visa{
     margin-top: 5px;
     font-size: 22px;
     line-height: 33px;
@@ -933,14 +933,14 @@
     width: 800px;
     margin-top: 30px;
 }
-.nav_8_heading_1{
+.Process_heading{
     font-size: 22px;
     line-height: 33px;
     font-family: Poppins,sans-serif;
     text-align: center;
     color: #243be4;
 }
-.nav_8_heading_2{
+.trusted_heading{
     margin-top: 5px;
     font-size: 22px;
     line-height: 33px;
@@ -948,7 +948,7 @@
     text-align: center;
     color: #000;
 }
-.nav_8_heading_3{
+.expert_paragraph{
     margin-top: 15px;
     font-size: 14px;
     font-family: Poppins,sans-serif;
@@ -983,9 +983,9 @@
     height: 150px;
     width: 700px;
 }
-.nav_10_heading_1{
+.static_heading{
     padding-top: 20px;
-    font-size: 18px;
+    font-size: 22px;
     line-height: 33px;
     font-family: Poppins,sans-serif;
     text-align: center;
@@ -994,7 +994,6 @@
 .nav_10_paragraph{
     margin-top: 5px;
     font-size: 14px;
-    line-height: 33px;
     font-family: Poppins,sans-serif;
     text-align: center;
     color: #fff;
@@ -1012,20 +1011,20 @@
     height: 130px;
     width: 900px;
 }
-.nav_11_heading_1{
+.services_heading_1{
     font-size: 22px;
-    line-height: 33px;
+    /* line-height: 33px; */
     color: #000;
     font-weight: 700;
     font-family: Poppins,sans-serif;
     text-align: center;
 }
-.nav_11_paragraph{
+.services_paragraph{
     margin-top: 15px;
     font-size: 14px;
     color: #000;
     font-weight: 400;
-    line-height: 25px;
+    line-height: 22px;
     font-family: Poppins,sans-serif;
     text-align: center;
     
@@ -1738,7 +1737,6 @@
     height: 100px;
     width: 100%;
     background-color: rgb(12, 14, 11);
-    /* border: 1px solid rgb(12, 14, 11); */
 }
 .abgyan_logo_2{
     height: 70px;
@@ -1755,7 +1753,6 @@
     width: 100%;
     display: flex;
     justify-content: space-evenly;
-    /* align-items: center; */
     background-color: rgb(12, 14, 11);
 }
                             /* col_1 */
