@@ -1187,9 +1187,15 @@
     color: #555!important;
 }
 /* nav_12_box_4 */
+.nav_12_box4_link{
+    height: 220px;
+    width: 300px;
+    text-decoration: none;
+}
 .nav_12_box_4{
     height: 220px;
     width: 300px;
+    text-decoration: none;
     cursor: pointer;
     margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;

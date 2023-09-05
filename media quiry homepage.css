@@ -759,12 +759,15 @@
         padding-top: 0%;
         margin-top: 0%;
     }
+    .call_icon{
+        font-size: 12px;
+    }
     .nav_22_col_5{
         font-size: 12px;
     }
                                    /* navbar_23 */
     .navbar_23{
-    height: 400px;
+    height: 350px;
     width: 100%;
     background-color: #343a40;
     }
@@ -820,5 +823,32 @@
     .nav_23_paragraph{
         font-size: 12px;
         line-height: 15px;
+    }
+    .navbar_24{
+        height: 680px;
+        width: 100%;
+        background-color: #071230;
+    }
+    .nav_24_col{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .col_h3_heading{
+        padding-top: 20px;
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .col_h4_heading{
+        margin-top: 20px;
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .text-white{
+        margin-top: 5px;
+        color: #fff;
+        font-weight: 200;
+        font-size: 12px;
+
+
     }
 }
