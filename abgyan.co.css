@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    
 }
 .navbar_1{
     height: 80px;
@@ -91,9 +92,20 @@
     font-weight: 600;
     color: #fff;
 }
+.login{
+    height: 25px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login_page{
+    font-size: 1.2rem;
+    color: #fff;
+    text-decoration: none;
+}
 /* navbar_2 */
 .navbar_2{
-    padding: 0%;
     display: flex;
     align-items: center;
     height: 30px;
@@ -102,6 +114,10 @@
     margin-top: 80px;
     z-index: 6;
     background-color: #fff;
+}
+.main_nav-2{
+    display: flex;
+    align-items: center;
 }
 /* test */
 .nav_2_test{
@@ -237,7 +253,6 @@
 .navbar_3{
     height: 350px;
     width: 100%;
-    padding: 0%;
     background-color: aqua;
     background-image: url("img/nav_3_image.webp");
     background-size: 100% 100%;
@@ -264,6 +279,7 @@
     border: none;
     border-radius: 5px;
     text-decoration: none;
+    transition: 0.50s;
     font-family: Poppins,sans-serif;
 }
 /* nav_3_botton_2 */
@@ -289,12 +305,14 @@
     border: none;
     border-radius: 5px;
     text-decoration: none;
+    transition: 0.50s;
     font-family: Poppins,sans-serif;
 }
 /* navbar_3:hover */
 .btn_3:hover{
     background-color: #d42512;
     color: white;
+    transition: 0.40s;
 }
 
                                            /* navbar_4 */
@@ -305,6 +323,13 @@
     align-items: center;
     height:100px;
     width: 100%;
+}
+.main_nav-4{
+    height:70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
                   /* box_1 */
 .box_1{
@@ -319,6 +344,7 @@
     cursor: pointer;
     background-color: #fff;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
 }
 .download{
     display: flex;
@@ -436,14 +462,14 @@
     height: 150px;
     width: 700px;
 }
-.nav_5_heading_1{
+.nav_5_destination_heading{
     font-size: 22px;
     line-height: 33px;
     font-family: Poppins,sans-serif;
     text-align: center;
     color: #243be4;
 }
-.nav_5_heading_2{
+.nav_5_Education_heading{
     margin-top: 5px;
     font-size: 22px;
     line-height: 33px;
@@ -451,7 +477,7 @@
     text-align: center;
     color: #000;
 }
-.nav_5_heading_3{
+.nav_5_course_para{
     margin-top: 15px;
     font-size: 14px;
     font-family: Poppins,sans-serif;
@@ -461,7 +487,6 @@
 }
                                /* Navbar_6 */
 .navbar_6{
-    padding: 0%;
     display: flex;
     justify-content: space-evenly;
     align-items: centers;
@@ -524,6 +549,7 @@
     color: #fff;
     background-color: #d73438;
     font-weight: 700;
+    transition: 0.50s;
 }
 /* nav-6-box-2 */
 .nav-6-box-2{
@@ -633,6 +659,8 @@
     align-items: center;
 }
 .country_botton{
+    height: 40px;
+    width: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -640,8 +668,6 @@
     font-size: 14px;
     line-height: 21px;
     border-radius: 5px;
-    height: 40px;
-    width: 200px;
     color: #fff;
     font-family: Poppins,sans-serif;
     text-decoration: none;
@@ -649,28 +675,25 @@
 }
                                  /* navbar_7 */
 .navbar_7{
-    padding: 0%;
     height: 390px;
     width: 100%;
     background-color: #f4f4f4;
 }
 /* nav_7_headings */
 .nav_7_headings{
-    height: 80px;
+    height: 100px;
     width: 550px;
-    margin-top: 40px;
     margin-left: 450px;
 }
-.nav_7_heading_1{
-    margin-top: 40px;
+.visa_coaching_heading{
     font-size: 22px;
     line-height: 33px;
-    padding-top: 15px;
+    padding-top: 20px;
     font-family: Poppins,sans-serif;
     text-align: center;
     color: #243be4;
 }
-.nav_7_heading_2{
+.benifit_visa{
     margin-top: 5px;
     font-size: 22px;
     line-height: 33px;
@@ -685,6 +708,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    flex-wrap: wrap;
 }
 /* nav_7_box_1 */
 .nav_7_box_1{
@@ -695,6 +719,7 @@
     justify-content: center;
     text-align: center;
     cursor: pointer;
+    position: grid;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 .nav_7_img_1{
@@ -707,7 +732,7 @@
 }
 .image_1{
     height: 50px;
-    width: 60px;
+    width: 50px;
     margin-left: 39%;
     margin-top: 20px;
     background-image: url('img/nav_7_ielts.webp');
@@ -856,7 +881,6 @@
 .nav_7_box_4{
     height: 200px;
     width: 240px;
-    margin-right: 80px;
     display: inline-block;
     justify-content: center;
     text-align: center;
@@ -921,14 +945,14 @@
     width: 800px;
     margin-top: 30px;
 }
-.nav_8_heading_1{
+.Process_heading{
     font-size: 22px;
     line-height: 33px;
     font-family: Poppins,sans-serif;
     text-align: center;
     color: #243be4;
 }
-.nav_8_heading_2{
+.trusted_heading{
     margin-top: 5px;
     font-size: 22px;
     line-height: 33px;
@@ -936,7 +960,7 @@
     text-align: center;
     color: #000;
 }
-.nav_8_heading_3{
+.expert_paragraph{
     margin-top: 15px;
     font-size: 14px;
     font-family: Poppins,sans-serif;
@@ -971,8 +995,9 @@
     height: 150px;
     width: 700px;
 }
-.nav_10_heading_1{
-    font-size: 18px;
+.static_heading{
+    padding-top: 20px;
+    font-size: 22px;
     line-height: 33px;
     font-family: Poppins,sans-serif;
     text-align: center;
@@ -981,7 +1006,6 @@
 .nav_10_paragraph{
     margin-top: 5px;
     font-size: 14px;
-    line-height: 33px;
     font-family: Poppins,sans-serif;
     text-align: center;
     color: #fff;
@@ -999,20 +1023,20 @@
     height: 130px;
     width: 900px;
 }
-.nav_11_heading_1{
+.services_heading_1{
     font-size: 22px;
-    line-height: 33px;
+    /* line-height: 33px; */
     color: #000;
     font-weight: 700;
     font-family: Poppins,sans-serif;
     text-align: center;
 }
-.nav_11_paragraph{
+.services_paragraph{
     margin-top: 15px;
     font-size: 14px;
     color: #000;
     font-weight: 400;
-    line-height: 25px;
+    line-height: 22px;
     font-family: Poppins,sans-serif;
     text-align: center;
     
@@ -1025,6 +1049,7 @@
     justify-content: space-evenly;
     align-items: center;
     background-color: #fff;
+    flex-wrap: wrap;
 }
 /* nav_12_box_1 */
 .nav_12_box_1{
@@ -1075,11 +1100,12 @@
     font-family: Poppins,sans-serif;
     color: #555!important;
 }
-.btn_12:hover{
-    background-color: #0f3ebf;
-    color: #fff;
-}
 /* nav_12_box_2 */
+.nav_12_box2_link{
+    height: 220px;
+    width: 300px;
+    text-decoration: none;
+}
 .nav_12_box_2{
     height: 220px;
     width: 300px;
@@ -1124,6 +1150,11 @@
     color: #555!important;
 }
 /* nav_12_box_3 */
+.nav_12_box3_link{
+    height: 220px;
+    width: 300px;
+    text-decoration: none;
+}
 .nav_12_box_3{
     height: 220px;
     width: 300px;
@@ -1168,9 +1199,15 @@
     color: #555!important;
 }
 /* nav_12_box_4 */
+.nav_12_box4_link{
+    height: 220px;
+    width: 300px;
+    text-decoration: none;
+}
 .nav_12_box_4{
     height: 220px;
     width: 300px;
+    text-decoration: none;
     cursor: pointer;
     margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -1228,7 +1265,10 @@
 .nav_13_box_5{
     height: 220px;
     width: 300px;
+    cursor: pointer;
+    margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid #fff;
 }
 .nav_13_img_5{
     height: 40px;
@@ -1269,7 +1309,10 @@
 .nav_13_box_6{
     height: 220px;
     width: 300px;
+    cursor: pointer;
+    margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid #fff;
 }
 .nav_13_img_6{
     height: 40px;
@@ -1310,7 +1353,10 @@
 .nav_13_box_7{
     height: 220px;
     width: 300px;
+    cursor: pointer;
+    margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid #fff;
 }
 .nav_13_img_7{
     height: 40px;
@@ -1351,7 +1397,10 @@
 .nav_13_box_8{
     height: 220px;
     width: 300px;
+    cursor: pointer;
+    margin-top: 15px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: 1px solid #fff;
 }
 .nav_13_img_8{
     height: 40px;
@@ -1429,7 +1478,7 @@
     height: 130px;
     width: 900px;
 }
-.nav_15_heading_1{
+.Visas_heading_1{
     font-size: 22px;
     line-height: 33px;
     color: #000;
@@ -1437,7 +1486,7 @@
     font-family: Poppins,sans-serif;
     text-align: center;
 }
-.nav_15_paragraph{
+.Visas_paragraph{
     margin-top: 15px;
     font-size: 14px;
     color: #000;
@@ -1445,7 +1494,6 @@
     line-height: 25px;
     font-family: Poppins,sans-serif;
     text-align: center;
-    
 }
                               /* navbar-16 */
 .navbar_16{
@@ -1606,17 +1654,17 @@
     height: 360px;
     width: 430px;
     border-radius: 7px;
+    z-index: 0;
     box-shadow: 2px 3px 10px rgba(36,59,228,.502);
 }
 .abgyan_video{
     border-radius: 7px;
-    z-index: auto !important;
+    border: none;
 }
                                    /* navbar_20 */
 .navbar_20{
     height: 430px;
     width: 100%;
-    padding: 0%;
     display: flex;
     background-color:  #243be4;
 }
@@ -1630,11 +1678,11 @@
     margin-left: 70px;
     border: 4px solid #fff;
 }
-.nav_20_video_1{
+.abgyan_video-2{
     height: 290px;
     width: 390px;
     border-radius: 10px;
-    /* z-index: 10; */
+    z-index: 4;
 }
 .main_nav{
     height: 340px;
@@ -1691,6 +1739,7 @@
     display: inline-flex;
     margin-right: 3000px;
     margin-top: 20px;
+    
 }
 .consel_button{
     height: 35px;
@@ -1716,7 +1765,6 @@
     height: 100px;
     width: 100%;
     background-color: rgb(12, 14, 11);
-    /* border: 1px solid rgb(12, 14, 11); */
 }
 .abgyan_logo_2{
     height: 70px;
@@ -1733,7 +1781,6 @@
     width: 100%;
     display: flex;
     justify-content: space-evenly;
-    /* align-items: center; */
     background-color: rgb(12, 14, 11);
 }
                             /* col_1 */
@@ -1825,12 +1872,21 @@
 .twitter_icon{
     font-size: 1.8rem;
 }
+                            /* main_col_2 and 3 */
+.main_col_2{
+    height: 220px;
+    width: 380px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 17px;
+}
                             /* col_2 */
 .col_2{
     height: 220px;
-    width: 230px;
-    margin-left: 80px;
-    margin-top: 20px;
+    width: 190px; 
+    text-align: start;
 }
 .col_2_list{
     list-style: none;
@@ -1840,20 +1896,21 @@
     color: #fff;
     font-weight: 500;
     font-size: 14px;
+    text-align: start;
     line-height: 24px;
     font-family: Poppins,sans-serif;
 }
 .col_2_services{
     text-decoration: none;
     color: #757575;
+    text-align: start;
     line-height: 20px;
 }
                       /* col_3 */
 .col_3{
     height: 220px;
     width: 200px;
-    margin-left: 80px; 
-    margin-top: 20px;
+    margin-left: 60px; 
 }
 .col_3_list{
     list-style: none;
@@ -1864,19 +1921,32 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 24px;
+    padding-left: 20px;
     font-family: Poppins,sans-serif;
 }
 .col_3_studys{
     text-decoration: none;
+    padding-left: 20px;
     color: #757575;
     line-height: 20px;
+}
+                      /* main_col_4 and 5 */
+.main_col_4{
+    height: 250px;
+    width: 380px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 17px;
+  
 }
                       /* col_4 */
 .col_4{
     height: 220px;
-    width: 200px;
-    margin-left: 80px;
-    margin-top: 20px;
+    width: 220px; 
+    text-align: start;
+    margin-bottom: 30px;
 }
 .col_4_list{
     list-style: none;
@@ -1886,21 +1956,20 @@
     color: #fff;
     font-weight: 500;
     font-size: 14px;
+    text-align: start;
     line-height: 24px;
     font-family: Poppins,sans-serif;
 }
 .col_4_Quick{
     text-decoration: none;
     color: #757575;
+    text-align: start;
     line-height: 20px;
 }
                       /* col_5 */
 .col_5{
     height: 250px;
     width: 220px;
-    margin-left: 80px;
-    margin-right: 60px;
-    margin-top: 20px;
 }
 .col_5_heading{
     color: #fff;
@@ -1968,13 +2037,11 @@
 }
                                /* navbar_23 */
 .navbar_23{
-    height: 200px;
+    height: 250px;
     width: 100%;
     background-color: #343a40;
-    /* border: 1px solid #343a40; */
 }
 .nav_23_blogs{
-    margin-top: 20px;
     text-align: center;
     font-size: 2rem;
     padding-top: 20px;
@@ -2005,15 +2072,14 @@
     margin-left: 20px;
 
 }
-.nav_23_heading_h6{
+.ielts_exam_heading{
     font-size: 0.86rem;
     color: #fff;
     font-weight: 700;
     line-height: 25px;
     font-family: Poppins,sans-serif;
-
 }
-.nav_23_paragraph{
+.ielts_exam_paragraph{
     font-size: 0.86rem;
     color: #fff;
     font-weight: 400;
@@ -2042,7 +2108,7 @@
     width: 500px;
     margin-left: 20px;
 }
-.nav_23_heading_h6{
+.pre-masters_ourse_heading{
     font-size: 0.86rem;
     color: #fff;
     font-weight: 700;
@@ -2066,13 +2132,11 @@
     height: 500px;
     width: 100%;
     background-color: #071230;
-    /* border: 1px solid #071230; */
 }
 .nav_24_col{
     margin-left: 90px;
 }
 .col_h3_heading{
-    margin-top: 20px;
     padding-top: 15px;
     font-size: 1rem;
     line-height: 30px;
