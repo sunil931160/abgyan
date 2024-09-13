@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+}
+.container{
+    margin-top: 20px;
+    margin-left: 40px;
+    border: 4px solid rgb(17, 15, 15);
+    padding: 15px;
+    border-radius: 7px;
+}
+.question{
+    margin-top: 10px;
+}
+.question li{
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.lists-1{
+    display: none;
+}
+.lists-2,.lists-3,.lists-4,.lists-5,.lists-7,.lists-6,.lists-8,.lists-9{
+    display: none;
+}
+#para,#para-1,#para-2,#para-3,#para-4,#para-5,#para-6,#para-7,#para-8,#para-9,#para-10{
+    margin-top: 10px;
+    font-size: 15px;
+}
+#btn-1,#btn-2,#btn-4,#btn-3,#btn-5,#btn-6,#btn-7,#btn-8,#btn-9,#btn-10{
+    display: none;
+    margin-top: 10px;
+    font-size: 18px;
+}
