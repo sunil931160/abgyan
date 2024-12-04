@@ -276,6 +276,7 @@
 .btn_3:hover{
     background-color: #d42512;
     color: white;
+    transition: 0.50s;
 }
                                            /* navbar_4 */
 .navbar_4{

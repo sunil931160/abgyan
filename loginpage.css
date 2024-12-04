@@ -1,0 +1,34 @@
+.container{
+    height: 640px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("img/download.jpg");
+    background-size: 100% 100%;
+}
+.form-label{
+    color: #fff;
+}
+.form-text{
+    color: #fff;
+}
+.form-check-label{
+    color: #fff;
+}
+.login-form{
+    height: 400px;
+    width: 400px;
+    background: transparent;
+}
+.form-control{
+    border: 1px solid black;
+    background: transparent;
+}
+.new-account{
+    margin-top: 20px;
+}
+.new{
+    margin-top: 20px;
+}
